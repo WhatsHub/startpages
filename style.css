@@ -1,0 +1,50 @@
+body
+	{
+		background-image: url("wallpaper.png");
+		background-repeat: no-repeat;
+		background-position: top left;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 20px;
+		text-align: center;
+	}
+
+h1
+	{
+		font-family: 'Lobster', cursive;
+		font-size: 70px;
+		text-shadow: 6px 6px 6px #000;
+		color: white;
+	}
+
+#page
+	{
+		margin-top: .5%;
+		margin-bottom: .5%;
+		margin-right: 0%;
+		margin-left: 15%;
+		background: #ffffff;
+		border: 1px solid #000000;
+		width: 25%;
+		padding: 25px;
+		float: left;
+	}
+
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
