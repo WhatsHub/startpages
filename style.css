@@ -1,6 +1,6 @@
 body
 	{
-		background-image: url("wallpaper.png");
+		background-image: url("wallpaper.jpg");
 		background-repeat: no-repeat;
 		background-position: top left;
 		font-family: 'Open Sans', sans-serif;
@@ -15,36 +15,38 @@ h1
 		text-shadow: 6px 6px 6px #000;
 		color: white;
 	}
-
+#book
+	{
+		margin: auto;
+	}
 #page
 	{
-		margin-top: .5%;
-		margin-bottom: .5%;
-		margin-right: 0%;
-		margin-left: 15%;
-		background: #ffffff;
+		margin: auto;
+		margin-bottom: 1%;
+		background: #293234;
 		border: 1px solid #000000;
+		color: #ffffff;
+		opacity: 0.5;
 		width: 25%;
 		padding: 25px;
-		float: left;
 	}
 
 a:link {
 	text-decoration: none;
-	color: black;
+	color:white;
 }
 
 a:visited {
 	text-decoration: none;
-	color: black;
+	color:white;
 }
 
 a:hover {
 	text-decoration: none;
-	color: black;
+	color:white;
 }
 
 a:active {
 	text-decoration: none;
-	color: black;
+	color:white;
 }
